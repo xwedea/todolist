@@ -9,7 +9,7 @@
   "author": "xwedea",
   "license": "ISC",
   "engines": {
-    "node": "10.18.2"
+    "node": "10.x"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
